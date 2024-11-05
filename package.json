@@ -1,0 +1,9 @@
+{
+  "name": "demure",
+  "version": "0.0.0",
+  "main": "very-demure.txt",
+  "license": "MIT",
+  "files": [
+    "very-demure.txt"
+  ]
+}
